@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="libevent_server_cpp" targetName="libevent_server_cpp" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="066836bb-d67f-4aea-a769-505ac1c2c1e4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1VpdWB2If93wPxoyhMe3xQQvYNO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../untitled2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="libevent_server_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="libevent_server_cpp" TARGET_NAME="libevent_server_cpp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="libevent_server_cpp" RUN_TARGET_NAME="libevent_server_cpp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="066836bb-d67f-4aea-a769-505ac1c2c1e4" name="Default Changelist" comment="" />
+      <created>1577954000192</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577954000192</updated>
+      <workItem from="1577954002599" duration="2077000" />
+      <workItem from="1577957282358" duration="6641000" />
+      <workItem from="1578033355792" duration="834000" />
+      <workItem from="1578289226470" duration="18351000" />
+      <workItem from="1578456244774" duration="4315000" />
+      <workItem from="1578641248458" duration="2763000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="310" y="47" key="FileChooserDialogImpl" timestamp="1578463170136">
+      <screen x="0" y="24" width="1162" height="556" />
+    </state>
+    <state x="310" y="47" key="FileChooserDialogImpl/0.24.1162.556@0.24.1162.556" timestamp="1578463170136" />
+    <state x="190" y="116" key="com.intellij.ide.util.TipDialog" timestamp="1577957347901">
+      <screen x="0" y="24" width="1162" height="556" />
+    </state>
+    <state x="190" y="116" key="com.intellij.ide.util.TipDialog/0.24.1162.556@0.24.1162.556" timestamp="1577957347900" />
+  </component>
+</project>
